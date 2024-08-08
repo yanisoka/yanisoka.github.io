@@ -131,7 +131,7 @@
                 }, [n("ul", [n("a", {
                     staticClass: "hero__link",
                     attrs: {
-                        href: "https://rxresu.me/yanisoka",
+                        href: "https://rxresu.me/yanis.ext/agent-commercial",
                         target: "__blank",
                         title: "Yanis OKA Resume"
                     }
