@@ -138,7 +138,7 @@
                 }, [t._v("Resume")])]), n("ul", [n("a", {
                     staticClass: "hero__link",
                     attrs: {
-                        href: "https://www.linkedin.com/in/yanis-oka/",
+                        href: "https://www.linkedin.com/in/yanis-oka-672472284/",
                         target: "__blank",
                         title: "Yanis OKA LinkedIn"
                     }
